@@ -1,33 +1,32 @@
-
 # Hakime Havel
 
-O código **Hakime Havel** é uma implementação em C++ de um algoritmo para verificar se um determinado vetor pode ser representado graficamente, seguindo os princípios do conceito de Hakime Havel.
+The **Hakime Havel** code is a C++ implementation of an algorithm to check if a given vector can be graphically represented, following the principles of the Hakime Havel concept.
 
-## Detalhes de Implementação
+## Implementation Details
 
-- O algoritmo realiza iterações no vetor, reduzindo os valores de seus elementos de acordo com determinadas regras.
-- Se o vetor resultante atender aos critérios de um vetor gráfico, ele é considerado como tal e uma mensagem é exibida.
-- Caso contrário, o vetor é considerado não gráfico.
+- The algorithm iterates through the vector, reducing the values of its elements according to certain rules.
+- If the resulting vector meets the criteria of a graphical vector, it is considered as such, and a message is displayed.
+- Otherwise, the vector is considered non-graphical.
 
-## Como Usar
+## How to Use
 
-1. Compile o código C++.
-2. Execute o código em C++.
-3. Chame a função `hakime.graphicVector()` passando como argumento um vetor para verificar se é um vetor gráfico.
+1. Compile the C++ code.
+2. Run the C++ code.
+3. Call the `hakime.graphicVector()` function, passing a vector as an argument to check if it is a graphical vector.
 
-## Como Contribuir
+## How to Contribute
 
-Se desejar contribuir para o desenvolvimento deste código, siga estas etapas:
+If you wish to contribute to the development of this code, follow these steps:
 
-1. Fork o repositório.
-2. Faça suas modificações e melhorias no código.
-3. Teste suas alterações para garantir que funcionem corretamente.
-4. Envie um pull request descrevendo as mudanças que você fez e suas razões para elas.
+1. Fork the repository.
+2. Make your modifications and improvements to the code.
+3. Test your changes to ensure they work correctly.
+4. Submit a pull request describing the changes you made and your reasons for them.
 
-## Autor
+## Author
 
-Este algorítimo foi desenvolvido por Ageu Felipe Nunes Moraes(eu) como parte de um projeto pessoal inspirado nos métodos do Hakime Havel. Para dúvidas ou sugestões, entre em contato com [ageumoraers67@gmail.com].
+This algorithm was developed by Ageu Felipe Nunes Moraes (me) as part of a personal project inspired by the Hakime Havel methods. For questions or suggestions, contact [ageumoraers67@gmail.com].
 
-## Aviso Legal
+## Disclaimer
 
-Este é um projeto de software desenvolvido por um indivíduo e não tem afiliação com os criadores desse método.
+This is a software project developed by an individual and is not affiliated with the creators of this method.
